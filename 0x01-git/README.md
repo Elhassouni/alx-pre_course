@@ -1,1 +1,1 @@
-It’s time to code!
+ It’s the only time you are allowed to update and commit from GitHub
